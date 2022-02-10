@@ -1,3 +1,5 @@
 # Wafer_Scale_Spacecraft
 ### Project Overview
 Initial interstellar missions will require a complete reevaluation and redesign of the space systems of today. The objective of the Wafer Scale Spacecraft Development program (WSSD) at the University of California Santa Barbara (UCSB) is to design, develop, assemble and characterize the initial prototypes of these robotic platforms in an attempt to pave a path forward for future innovation and exploration. This program, which is just one venture of the UCSB Experimental Cosmology Group’s Electronic and Advanced Systems Laboratory (UCSB Deepspace EAS), focuses on leveraging continued advances in semiconductor and photonics technologies to recognize and efficiently address the many complexities associated with long duration autonomous interstellar mission.
+### My Work
+All of the files about camera and imaging, including cameraset, photo, savingpic, timelapse, and manual exposure control, are completely writing on my onw. Other files are the works that the groupmates and I finished together. 
